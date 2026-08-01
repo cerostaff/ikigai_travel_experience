@@ -24,3 +24,7 @@ desktop.ini
 # Logs
 *.log
 npm-debug.log*
+
+# Artefactos de pruebas en navegador
+.playwright-mcp/
+*.png
